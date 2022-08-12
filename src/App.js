@@ -8,7 +8,7 @@ import './App.css';
 const App = () => {
   return (
     <Switch>
-      <Route exact path="/cipher-my-doc-app/">
+      <Route path="/cipher-my-doc-app/">
         <h1>
           Cipher My Doc
         </h1>
