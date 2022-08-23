@@ -7,13 +7,9 @@ import './App.css';
 
 const App = () => {
   return (
-    <Switch>
-      <Route path="/cipher-my-doc-app/">
         <h1>
-          Cipher My Doc
+          Hello Netlify
         </h1>
-      </Route>
-    </Switch>
   );
 }
 
